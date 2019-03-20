@@ -35,9 +35,9 @@ page:
 | Reads/sec                          | The number of read operations per second |
 | Writes/sec                         | The number of write operations per second |
 | Other cmds/sec                     | The number of other Redis commands per second |
-| Latency (in milliseconds)          | Latency per write operation |
+| Latency (in milliseconds)          | Latency per write operation  |
 | Reads Latency (in milliseconds)    | The average, min, max and last values are also shown |
-| Writes Latency (in milliseconds)   | Latency per write operation |
+| Writes Latency (in milliseconds)   | Latency per write operation  |
 | Other Latency (in milliseconds)    | Latency per other commands |
 | Used Memory                        | The amount of memory used by the database |
 | Total Keys                         | The total number of keys in the database |
